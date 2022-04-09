@@ -2,6 +2,7 @@
 If you update new mac, you can run this shell one step install all software. 
 
 ## Sofe list and description
+
 Name                                                                            | Description                                                                         |
 :--                                                                             | :--                                                                                 |
 **Terminal**                                                                    | terminal software                                                                   |
