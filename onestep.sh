@@ -38,15 +38,18 @@ brew install neofetch
 brew install figlet
 brew install most
 brew install tree
+brew install cask
 
 # Install cask tools
-brew install iterm2 --cask
-brew install alacritty --cask
-brew install google-chrome --cask
-brew install postman --cask
-brew install vlc --cask
-brew install tickeys --cask
-brew install rotato --cask
+brew install v2rayu        -- cask
+brew install iterm2        -- cask
+brew install alacritty     -- cask
+brew install tabby         -- cask
+brew install google-chrome -- cask
+brew install postman       -- cask
+brew install vlc           -- cask
+brew install tickeys       -- cask
+brew install rotato        -- cask
 
 # Cleanup
 brew cleanup 
