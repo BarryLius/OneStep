@@ -39,6 +39,7 @@ brew install figlet
 brew install most
 brew install tree
 brew install cask
+brew install httpie
 
 # Install cask tools
 brew install v2rayu        -- cask
