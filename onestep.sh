@@ -51,6 +51,7 @@ brew install postman       -- cask
 brew install vlc           -- cask
 brew install tickeys       -- cask
 brew install rotato        -- cask
+brew install virtualbox    -- cask
 
 # Cleanup
 brew cleanup 
