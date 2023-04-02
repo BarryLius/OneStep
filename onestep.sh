@@ -46,12 +46,16 @@ brew install v2rayu        -- cask
 brew install iterm2        -- cask
 brew install alacritty     -- cask
 brew install tabby         -- cask
+brew install warp          -- cask
 brew install google-chrome -- cask
 brew install postman       -- cask
 brew install vlc           -- cask
 brew install tickeys       -- cask
 brew install rotato        -- cask
 brew install virtualbox    -- cask
+brew install qv2ray        -- cask
+brew install telegram      -- cask
+
 
 # Cleanup
 brew cleanup 
